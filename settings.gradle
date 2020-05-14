@@ -1,0 +1,2 @@
+rootProject.name='Intent_Edu_ButterKnife'
+include ':app'

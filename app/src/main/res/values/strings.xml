@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent_Edu_ButterKnife</string>
+    <string-array name="myArray">
+
+        <item>Sathya</item>
+        <item>Suresh</item>
+        <item>Sanath</item>
+
+
+    </string-array>
+</resources>
